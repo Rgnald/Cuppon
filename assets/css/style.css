@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+  }
+  
+
+.card-title{
+    color: #212529;
+    font-size: 20pt;
+}
+.card-body p{
+ color: #707070;
+ font-size: 10pt;
+}
+
+.card-footer{
+    color:#707070; 
+    font-size: 16pt;
+    
+}
+.card-footer span{
+ color: darkgreen;
+ font-size: 20pt;
+ padding: 15px;
+
+}
+
+.boton{
+    padding: 12px 30px;  /* Aumenta el tamaño del botón */
+    font-size: 18px;  /* Aumenta el tamaño del texto */
+    border-radius: 12px;  /* Redondea las esquinas */
+    color: rgb(12, 12, 12);  /* Texto en color blanco */
+}
